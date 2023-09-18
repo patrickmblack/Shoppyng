@@ -1,6 +1,6 @@
 # Shoppyng
 
-#### Video Demo: 
+#### Video Demo: https://youtu.be/qCib3G8_r6Q
 
 #### Description
 
