@@ -1,0 +1,2 @@
+pip install inflect
+pip install fpdf2

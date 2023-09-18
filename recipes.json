@@ -1,0 +1,240 @@
+{
+    "breakfast": [
+        {
+            "recipe_name": "hashbrown waffles",
+            "ingredients":[
+                {  
+                    "ing_name": "frozen hashbrown",
+                    "quantity": 1,
+                    "unit": "bag",
+                    "category": "frozen"
+                },
+                {
+                    "ing_name": "egg",
+                    "quantity": 2,
+                    "unit": "each",
+                    "category": "eggs"
+                },
+                {
+                    "ing_name": "cheese",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "category": "cheese"
+                },
+                {
+                    "ing_name": "cottage cheese",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "category": "dairy"
+                }
+            ]
+        },{
+            "recipe_name": "overnight oats",
+            "ingredients":[
+                {  
+                    "ing_name": "oats",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "category": "breakfast"
+                },
+                {
+                    "ing_name": "greek yogurt",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "category": "dairy"
+                },
+                {
+                    "ing_name": "chia seeds",
+                    "quantity": 1,
+                    "unit": "tbsp",
+                    "category": "baking"
+                },
+                {
+                    "ing_name": "oat milk",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "category": "dairy"
+                }
+    
+            ]
+        }
+    ],
+    "dinner":[
+        {
+            "recipe_name": "spaghetti",
+            "ingredients":[
+                {  
+                    "ing_name": "spaghetti",
+                    "quantity": 1,
+                    "unit": "package",
+                    "category": "pasta"
+                },
+                {
+                    "ing_name": "marinara sauce",
+                    "quantity": 1,
+                    "unit": "cups",
+                    "category": "pasta"
+                },
+                {
+                    "ing_name": "parmesean",
+                    "quantity": 1,
+                    "unit": "block",
+                    "category": "cheese"
+                }    
+            ]
+        },
+        {
+            "recipe_name": "mashed potatoes",
+            "ingredients":[
+                {  
+                    "ing_name": "potato",
+                    "quantity": 6,
+                    "unit": "each",
+                    "category": "produce"
+                },
+                {
+                    "ing_name": "butter",
+                    "quantity": 1,
+                    "unit": "stick",
+                    "category": "dairy"
+                }    
+            ]
+        }
+    ],
+    "snacks":[
+        {
+            "recipe_name": "granola",
+            "ingredients":[
+                {  
+                    "ing_name": "oats",
+                    "quantity": 2,
+                    "unit": "cup",
+                    "category": "breakfast"
+                },
+                {
+                    "ing_name": "honey",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "category": "baking"
+                },
+                {
+                    "ing_name": "dried fruit",
+                    "quantity": 1,
+                    "unit": "bag",
+                    "category": "baking"
+                }    
+            ]
+        },
+        {
+            "recipe_name": "fruit salad",
+            "ingredients":[
+                {  
+                    "ing_name": "watermelon",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "category": "produce"
+                },
+                {
+                    "ing_name": "pineapple",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "category": "produce"
+                },
+                {
+                    "ing_name": "strawberry",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "category": "produce"
+                }      
+            ]
+        },
+        {
+            "recipe_name": "pistachios",
+            "ingredients":[
+                {  
+                    "ing_name": "pistachios",
+                    "quantity": 1,
+                    "category": "snacks"
+                }    
+            ]
+        },
+        {
+            "recipe_name": "cheez-its",
+            "ingredients":[
+                {  
+                    "ing_name": "cheez-its",
+                    "quantity": 1,
+                    "category": "snacks"
+                }    
+            ]
+        },
+        {
+            "recipe_name": "kani salad",
+            "ingredients":[
+                {  
+                    "ing_name": "crab sticks",
+                    "quantity": 1,
+                    "category": "meat"
+                },{  
+                    "ing_name": "mayo",
+                    "quantity": 1,
+                    "category": "condiments"
+                },{  
+                    "ing_name": "rice vinegar",
+                    "quantity": 1,
+                    "category": "condiments"
+                },{  
+                    "ing_name": "cucumber",
+                    "quantity": 1,
+                    "category": "produce"
+                },{  
+                    "ing_name": "sesame seeds",
+                    "quantity": 1,
+                    "category": "baking"
+                }
+            ]
+        }
+    ],
+    "misc.":[
+        {
+            "recipe_name": "hand soap",
+            "ingredients":[
+                {  
+                    "ing_name": "hand soap",
+                    "quantity": 1,
+                    "category": "bathroom"
+                }   
+            ]
+        },
+        {
+            "recipe_name": "shampoo",
+            "ingredients":[
+                {  
+                    "ing_name": "shampoo",
+                    "quantity": 1,
+                    "category": "bathroom"
+                }  
+            ]
+        },
+        {
+            "recipe_name": "toilet paper",
+            "ingredients":[
+                {  
+                    "ing_name": "toilet paper",
+                    "quantity": 1,
+                    "category": "cleaning"
+                }  
+            ]
+        },
+        {
+            "recipe_name": "paper towels",
+            "ingredients":[
+                {  
+                    "ing_name": "paper towels",
+                    "quantity": 1,
+                    "category": "cleaning"
+                }  
+            ]
+        }
+    ]
+}
